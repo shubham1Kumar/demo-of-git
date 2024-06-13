@@ -13,19 +13,15 @@
 8. git chckout branchname : to switch your branch
 9. git branch -d branchname : to delete file
 
+
+
 **STEPS TO PUSH REPO ON GITHUB :**
-
-## 1. git init ( run ls -a to verify)
-
-## 2. git add .
-
-## 3. git commit -m "commit" ( m is used to add message )
-
-## 4. git
-
-## 5. git remote add origin https://github.com/shubham1Kumar/demo-of-git.git
-
-## 6. git branch -M main
-
-## 7. git push -u origin main
-
+```s
+$ 1. git init ( run ls -a to verify)
+$ 2. git add .
+$ 3. git commit -m "commit" ( m is used to add message )
+$ 4. git
+$ 5. git remote add origin https://github.com/shubham1Kumar/demo-of-git.git
+$ 6. git branch -M main
+$ 7. git push -u origin main
+```
