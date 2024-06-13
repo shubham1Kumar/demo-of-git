@@ -18,11 +18,11 @@
 **STEPS TO PUSH REPO ON GITHUB :**
 
 ```s
-$ 1. git init ( run ls -a to verify)
-$ 2. git add .
-$ 3. git commit -m "commit" ( m is used to add message )
-$ 4. git
-$ 5. git remote add origin https://github.com/shubham1Kumar/demo-of-git.git
-$ 6. git branch -M main
-$ 7. git push -u origin main
+$ git add .
+$ git init ( run ls -a to verify)
+$ git commit -m "commit" ( m is used to add message )
+$ git
+$ git remote add origin https://github.com/shubham1Kumar/demo-of-git.git
+$ git branch -M main
+$ git push -u origin main
 ```
