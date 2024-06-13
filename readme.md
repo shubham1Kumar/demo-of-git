@@ -15,7 +15,7 @@
 
 
 
-<h1>**STEPS TO PUSH REPO ON GITHUB :**</h1>
+<h2>STEPS TO PUSH REPO ON GITHUB :</h2>
 
 ```s
 $ git add .
